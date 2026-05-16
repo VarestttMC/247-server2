@@ -1,0 +1,5 @@
+{
+  "name": "mc-pinger",
+  "version": "1.0.0",
+  "main": "server.js"
+}
